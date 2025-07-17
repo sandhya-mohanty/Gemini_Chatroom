@@ -1,6 +1,5 @@
 
-
-import React, { useState, useEffect } from 'react';
+import React, {  useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { MessageSquare, Moon, Sun } from 'lucide-react';
 import ChatInterface from './components/ChatInterface';
